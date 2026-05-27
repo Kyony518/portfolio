@@ -1,0 +1,27 @@
+Phase 1: Conception et Design (5h)
+
+Zoning & Maquette rapide (2h): Dessiner la structure (emplacement des blocs, ordre des sections) pour avoir une ligne directrice.
+Configuration du projet (3h): Setup du dossier, Git, structure des fichiers et choix de la palette de couleurs (variables CSS).
+
+Phase 2: Structure HTML & Accessibilité (10h)
+
+Structure des sections de base (5h): Écriture du HTML brut pour le Header, l'Accueil et le À Propos avec des balises sémantiques.
+Structure des blocs complexes (5h): Code HTML pour la grille des compétences, les cartes de projets et le formulaire de contact.
+
+Phase 3: Design & Mise en page CSS (20h)
+
+Layout & Grid (8h): Utiliser Flexbox pour les petits éléments et CSS Grid pour la structure globale et la galerie de projets.
+Responsive Design (8h): Adopter une approche "Mobile First" et utiliser les Media Queries pour adapter l'affichage sur les écrans larges.
+Polissage & Effets (4h): Ajouter les effets au survol (hovers), des ombres légères et des transitions douces sur les boutons.
+
+Phase 4: Interactivité & Dynamisme JavaScript (15h)
+
+Navigation & Menu mobile (4h): Gérer l'ouverture du menu burger et le "Smooth Scroll" pour la navigation entre les sections.
+Mode Sombre / Clair (5h): Intégrer la bascule du thème et utiliser le localStorage pour sauvegarder le choix de l'utilisateur.
+Animations & Validation (6h): Ajouter l'effet machine à écrire sur l'accueil et vérifier les entrées du formulaire de contact avant l'envoi.
+
+Phase 5: Contenu, Optimisation & Déploiement (10h)
+
+Intégration du contenu (4h): Rédaction finale du "À propos", ajout des images des projets, des technos, et intégration du CV PDF.
+Tests & Recette (4h): Vérifier le rendu et corriger les bugs visuels sur différents navigateurs (Chrome, Firefox, Safari).
+Déploiement (2h): Mettre le site en ligne facilement et gratuitement via GitHub Pages ou Vercel.
