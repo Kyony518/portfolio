@@ -90,9 +90,8 @@ h2 { font-size: 2.5rem; margin-bottom: 40px; text-align: center; }
 
 /* À PROPOS */
 .about-grid { display: flex; flex-direction: column; gap: 40px; align-items: center; }
-.profile-pic { width: 100%; max-width: 300px; border-radius: 20px; object-fit: cover; box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
+.profile-pic { width: 100%; max-width: 400px; border-radius: 20px; object-fit: cover; box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
 
-/* COMPÉTENCES AVEC HOVER (Mise à jour en Flexbox pour symétrie) */
 .skills-grid { 
     display: flex; 
     flex-wrap: wrap; 
